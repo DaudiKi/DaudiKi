@@ -35,11 +35,11 @@ I am a **Business IT Professional** dedicated to building high-impact tech solut
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://helio-github-stats.vercel.app/api?username=DaudiKi&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Daudi's GitHub Stats" />
+  <img src="https://github-readme-stats-mirror.vercel.app/api?username=DaudiKi&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Daudi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://helio-top-langs.vercel.app/api/top-langs/?username=DaudiKi&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=DaudiKi&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </p>
 
 ---
