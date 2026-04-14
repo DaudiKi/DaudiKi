@@ -1,9 +1,4 @@
 # Hi there, I'm Daudi 👋
-
-<div align="center">
-  <img src="github_profile_banner.png" width="100%" alt="Daudi's Banner" />
-</div>
-
 ## 💼 Business IT Professional
 
 I am a **Business IT Professional** dedicated to building high-impact tech solutions for businesses. I specialize in bridging the gap between business requirements and technical implementation, creating robust systems that drive efficiency and growth.
